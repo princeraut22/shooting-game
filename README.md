@@ -6,10 +6,9 @@ I have created a simple interactive game which involves shooting.
 
 
 
+Uploading NEON DRIFT  _  Arcade 2026-10-07 20-47-10.mp4…
 
 
 
 
-
-https://github.com/user-attachments/assets/a0f5e057-7129-4f7e-802a-2084799b9d60
 
